@@ -9,7 +9,7 @@
 - 👀 Achei meu interesse de continuação de carreira em Desenvolvimento Web (o Full Stack vem 🙌🏻 )
 
   
-- 🌱 Atualmente estou me aventurando pelo Front end com a poderosa ajuda do @vainawebuser e as garotas da minha turma!!
+- 🌱 Atualmente estou me aventurando pelo Front end com a poderosa ajuda do Vai na Web e as garotas da minha turma!!
 - 📫 E fica fácil, fácil me encontrar pelo
        WhatsApp, Email ou Linkedin
 
