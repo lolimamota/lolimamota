@@ -1,4 +1,4 @@
-- 👋 Eiiii! Sou a Lorrayne, tenho 28 anos e sou mineira de BH!
+# Eiiii! Sou a Lorrayne, tenho 28 anos e sou mineira de BH!✌🏾
   
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://avatars.githubusercontent.com/u/134940985?v=4" width="250px">
@@ -7,29 +7,22 @@
 </picture>
 
 - 👀 Achei meu interesse de continuação de carreira em Desenvolvimento Web (o Full Stack vem 🙌🏻 )
-- 🌱 Atualmente estou me aventurando pelo Front end com a poderosa ajuda do Vai na Web e as garotas da minha turma!!
+<p></p>
+
+![Lo Lima Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=lolimamota&show_icons=true&theme=synthwave)
+
+- 🌱 Atualmente estou me aventurando e descobrindo o Front end, com a poderosa ajuda do Vai na Web e as garotas da minha turma!!
+<div>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="logo do html"><p></p>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo do css">
+</div>
+<p></p>
+
 - 📫 E fica fácil, fácil me encontrar pelo
 
-[WhatsApp](https://wa.me/+5531992539210)
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://w7.pngwing.com/pngs/713/815/png-transparent-whatsapp-iphone-whatsapp-logo-monochrome-black-thumbnail.png" width="100px">
- <source media="(prefers-color-scheme: light)" srcset="https://w7.pngwing.com/pngs/713/815/png-transparent-whatsapp-iphone-whatsapp-logo-monochrome-black-thumbnail.png" width="100px">
- <img alt="Logo do whatsapp" src="https://w7.pngwing.com/pngs/713/815/png-transparent-whatsapp-iphone-whatsapp-logo-monochrome-black-thumbnail.png" width="100px">
-</picture>
-
-[Email]()
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://w7.pngwing.com/pngs/612/278/png-transparent-email-illustration-gmail-computer-icons-email-google-symbol-gmail-angle-rectangle-triangle-thumbnail.png" width="100px">
- <source media="(prefers-color-scheme: light)" srcset="https://w7.pngwing.com/pngs/612/278/png-transparent-email-illustration-gmail-computer-icons-email-google-symbol-gmail-angle-rectangle-triangle-thumbnail.png" width="100px">
- <img alt="Logo do whatsapp" src="https://w7.pngwing.com/pngs/612/278/png-transparent-email-illustration-gmail-computer-icons-email-google-symbol-gmail-angle-rectangle-triangle-thumbnail.png" width="100px">
-</picture>
-
-[LinkedIn](https://www.linkedin.com/in/lorraynelimamota/)
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://w7.pngwing.com/pngs/371/396/png-transparent-computer-icons-linkedin-logo-linkedin-white-angle-text-logo-thumbnail.png" width="100px">
- <source media="(prefers-color-scheme: light)" srcset="https://w7.pngwing.com/pngs/371/396/png-transparent-computer-icons-linkedin-logo-linkedin-white-angle-text-logo-thumbnail.png" width="100x">
- <img alt="Logo LinkedIn" src="https://w7.pngwing.com/pngs/371/396/png-transparent-computer-icons-linkedin-logo-linkedin-white-angle-text-logo-thumbnail.png" width="100px">
-</picture>
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5531992539210)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contatealo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorraynelimamota/)
 
 <!---
 lolimamota/lolimamota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
