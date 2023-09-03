@@ -10,7 +10,7 @@
 - 🌱 Atualmente estou me aventurando pelo Front end com a poderosa ajuda do Vai na Web e as garotas da minha turma!!
 - 📫 E fica fácil, fácil me encontrar pelo
 
-[WhatsApp](https://wa.me/qr/CNWHQJLETM75D1)
+[WhatsApp](https://wa.me/+5531992539210)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://w7.pngwing.com/pngs/713/815/png-transparent-whatsapp-iphone-whatsapp-logo-monochrome-black-thumbnail.png" width="100px">
  <source media="(prefers-color-scheme: light)" srcset="https://w7.pngwing.com/pngs/713/815/png-transparent-whatsapp-iphone-whatsapp-logo-monochrome-black-thumbnail.png" width="100px">
