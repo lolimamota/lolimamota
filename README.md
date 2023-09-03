@@ -17,7 +17,7 @@
  <img alt="Logo do whatsapp" src="https://w7.pngwing.com/pngs/713/815/png-transparent-whatsapp-iphone-whatsapp-logo-monochrome-black-thumbnail.png" width="100px">
 </picture>
 
-[Email](https://mail.google.com/mail/u/1/#inbox?compose=new)
+[Email](https://mail.google.com/mail/u/1/#inbox?compose=GTvVlcSHwfTDblpQLjxhTTSCLSMCSZDHWFtlNwFklrtrHgrZbPjqpqzRwPpHXrLDZQMVDbFvvcXfp)
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="https://w7.pngwing.com/pngs/612/278/png-transparent-email-illustration-gmail-computer-icons-email-google-symbol-gmail-angle-rectangle-triangle-thumbnail.png" width="100px">
  <source media="(prefers-color-scheme: light)" srcset="https://w7.pngwing.com/pngs/612/278/png-transparent-email-illustration-gmail-computer-icons-email-google-symbol-gmail-angle-rectangle-triangle-thumbnail.png" width="100px">
