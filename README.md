@@ -24,7 +24,7 @@
  <img alt="Logo do whatsapp" src="https://w7.pngwing.com/pngs/612/278/png-transparent-email-illustration-gmail-computer-icons-email-google-symbol-gmail-angle-rectangle-triangle-thumbnail.png" width="100px">
 </picture>
 
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/lorraynelimamota/)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://w7.pngwing.com/pngs/371/396/png-transparent-computer-icons-linkedin-logo-linkedin-white-angle-text-logo-thumbnail.png" width="100px">
  <source media="(prefers-color-scheme: light)" srcset="https://w7.pngwing.com/pngs/371/396/png-transparent-computer-icons-linkedin-logo-linkedin-white-angle-text-logo-thumbnail.png" width="100x">
