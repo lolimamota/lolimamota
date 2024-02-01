@@ -10,6 +10,7 @@
 <p></p>
 
 <!--[Lo Lima Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=lolimamota&show_icons=true&theme=synthwave)-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolimamota&layout=compact)
 
 - 🌱 Atualmente estou me aventurando e descobrindo o Front end, com a poderosa ajuda do Vai na Web e as garotas da minha turma!!
 <div>
@@ -18,10 +19,10 @@
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="logo do javascritpt">
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="logo do react"><p></p>
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="logo styled-components">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="logo do figma">
-
-  
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="logo do figma">  
 </div>
+
+
 <p></p>
 
 - 📫 E fica fácil, fácil me encontrar pelo
