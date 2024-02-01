@@ -9,7 +9,7 @@
 - 👀 Achei meu interesse de continuação de carreira em Desenvolvimento Web (o Full Stack vem 🙌🏻 )
 <p></p>
 
-![Lo Lima Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=lolimamota&show_icons=true&theme=synthwave)
+<!--![Lo Lima Mota GitHub stats](https://github-readme-stats.vercel.app/api?username=lolimamota&show_icons=true&theme=synthwave)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolimamota&layout=compact)
 
 - 🌱 Atualmente estou me aventurando e descobrindo o Front end, com a poderosa ajuda do Vai na Web e as garotas da minha turma!!
